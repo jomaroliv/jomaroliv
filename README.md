@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jomaroliv
 - 👀 I’m interested in ... not only computers - Music, Life, Nature, Friendship
-- 🌱 I’m currently learning ... Azre stuff
+- 🌱 I’m currently learning ... Azure stuff
 - 💞️ I’m looking to collaborate on ... something interesting
 - 📫 How to reach me ... jorge.maroliv@outlook.com
 
